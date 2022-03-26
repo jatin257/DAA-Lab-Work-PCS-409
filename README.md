@@ -1,2 +1,2 @@
-# DAA-Lab-Work-PCS-409
-DAA  lab work  4 Sem
+# DAA-TCS-409
+DAA tutorial work  4 Sem
